@@ -68,3 +68,11 @@ By the end of this workshop, participants will:
 
 This workshop is a unique opportunity to deepen your expertise in Azure AI services and accelerate your journey in developing cutting-edge AI solutions. We look forward to your active participation and successful project outcomes!
 
+
+# Contributors
+- Phanis Parpas
+- Jonathan Vella
+- Bojan Vrhovnik
+- Sakis Rokanas
+- Dejan Pervulov
+- Rodanthi Alexiou 
