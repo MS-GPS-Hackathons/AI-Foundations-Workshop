@@ -10,45 +10,57 @@ Welcome to the SE GPS Workshop on Azure OpenAI and Copilot Studio solution devel
 
 ## 📅 Workshop Agenda
 
-### 📝 Day 1: Introduction & Whiteboarding Session
+### 📝 Day 1: AI Fundamentals
 
-**Morning Session: Azure AI Services Overview**
+**1st Session (2 hours): Azure AI Services Overview**
 
 - **Objective:** Understand the landscape of Azure AI services with a focus on Generative AI.
 - **Content:**
   - Overview of Azure AI services
-  - Deep dive into Generative AI capabilities
   - Use cases and real-world examples
   - Best practices and strategies for implementing AI solutions
 
-**Afternoon Session: Whiteboarding Customer Use Case**
+**2nd Session (2 hours): Design Session - Customer Use Case**
 
 - **Objective:** Collaboratively design a solution architecture for a customer use case.
 - **Content:**
   - Whiteboarding session to outline technical requirements
-  - Focus on Azure OpenAI and Copilot Studio Bot creation
-  - Define solution architecture and key components
   - Prepare for Day 2 hands-on implementation
+
+**3nd Session (3 hours): AI Fundamentals Labs**
+- **Objective:** Gain practical experience with key Azure AI services (AOAI model deployment, Azure AI Search, Prompt Flow)
+- **Content:**
+  - Challenge 01:
+  - Challenge 02:
+
+![Tracks](images/tracks.png)
 
 ### 👨‍💻👩‍💻 Day 2: Hands-on Solution Development
 
-**Morning & Afternoon Sessions: Parallel Tracks**
+**Parallel Tracks**
 
-- **Track 1: Azure OpenAI Development**
-  - **Objective:** Build and deploy a solution using Azure OpenAI.
+- **Track 1: AI Developer**
+  - **Objective:** Build and deploy solutions using Azure OpenAI based on the Customer Use Case of the 1st day.
   - **Content:**
-    - Set up Azure OpenAI services
-    - Choose the best data indexing and AI model for the bot
-    - Integrate the model with customer-specific requirements
-    - Test and validate the solution
+    - Topic 1: Chatbot with GenAI Capabilities
+      - Challenge 1: 
+      - Challenge 2:
+    - Topic 2: Natural Language to SQL
+      - Challenge 1:
+      - Challenge 2:
 
 - **Track 2: Copilot Studio Development**
-  - **Objective:** Build and deploy a bot using Copilot Studio.
+  - **Objective:** Build and deploy a bot using Copilot Studio based on the Customer Use Case of the 1st day.
   - **Content:**
     - Set up Copilot Studio environment
     - Design and develop the bot
     - Integrate with Azure services
     - Test and validate the solution
+
+- **Track 3: Infrastracture**
+  - **Objective:** Deploy the infrastructure and Landing Zones for your AOAI solution
+  - **Content:**
+    - Infrastracture, Landing Zones, Monitoring
 
 ## 📚 Resources
 
