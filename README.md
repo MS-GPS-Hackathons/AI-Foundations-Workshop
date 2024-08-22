@@ -12,26 +12,15 @@ Welcome to the SE GPS Workshop on Azure OpenAI and Copilot Studio solution devel
 
 ### 📝 Day 1: AI Fundamentals
 
-**1st Session (2 hours): Azure AI Services Overview**
-
-- **Objective:** Understand the landscape of Azure AI services with a focus on Generative AI.
-- **Content:**
-  - Overview of Azure AI services
-  - Use cases and real-world examples
-  - Best practices and strategies for implementing AI solutions
-
-**2nd Session (2 hours): Design Session - Customer Use Case**
-
-- **Objective:** Collaboratively design a solution architecture for a customer use case.
-- **Content:**
-  - Whiteboarding session to outline technical requirements
-  - Prepare for Day 2 hands-on implementation
-
-**3nd Session (3 hours): AI Fundamentals Labs**
+**1st: Azure AI Services Overview (2 hours)**
+**2nd: Design Session - Customer Use Case (2 hours)**
+**3nd: AI Fundamentals Challenges (3 hours)**
 - **Objective:** Gain practical experience with key Azure AI services (AOAI model deployment, Azure AI Search, Prompt Flow)
 - **Content:**
-  - Challenge 01:
-  - Challenge 02:
+  - Challenge 01: [Create a project and use the chat playground in Azure AI Studio](https://learn.microsoft.com/en-us/azure/ai-studio/quickstarts/get-started-playground)
+  - Challenge 02: [Deploy an Enterprise Chat web app](https://learn.microsoft.com/en-us/azure/ai-studio/tutorials/deploy-chat-web-app)
+  - Challenge 03: [Create .NET core application and build your first intelligent app](https://learn.microsoft.com/en-us/azure/ai-services/openai/use-your-data-quickstart?pivots=programming-language-csharp&tabs=command-line%2Cpython-new#create-a-new-net-core-application)
+
 
 ![Tracks](images/tracks.png)
 
@@ -60,7 +49,7 @@ Welcome to the SE GPS Workshop on Azure OpenAI and Copilot Studio solution devel
 - **Track 3: Infrastracture**
   - **Objective:** Deploy the infrastructure and Landing Zones for your AOAI solution
   - **Content:**
-    - Infrastracture, Landing Zones, Monitoring
+    - Security, Networking, Landing Zones, Observability
 
 ## 📚 Resources
 
@@ -81,10 +70,3 @@ By the end of this workshop, participants will:
 This workshop is a unique opportunity to deepen your expertise in Azure AI services and accelerate your journey in developing cutting-edge AI solutions. We look forward to your active participation and successful project outcomes!
 
 
-# Contributors
-- Phanis Parpas
-- Jonathan Vella
-- Bojan Vrhovnik
-- Sakis Rokanas
-- Dejan Pervulov
-- Rodanthi Alexiou 
