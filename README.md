@@ -15,8 +15,6 @@ Welcome to the SE GPS Workshop on Azure OpenAI and Copilot Studio solution devel
 - **Azure AI Services Overview (2 hours)**
 - **Design Session - Customer Use Case (2 hours)**
 - **AI Fundamentals Challenges (3 hours)**
-  - **Objective:** Gain practical experience with key Azure AI services (AOAI model deployment, Azure AI Search, Prompt Flow)
-  - **Content:**
     - Challenge 01: [Create a project and use the chat playground in Azure AI Studio](https://learn.microsoft.com/en-us/azure/ai-studio/quickstarts/get-started-playground)
     - Challenge 02: [Deploy an Enterprise Chat web app](https://learn.microsoft.com/en-us/azure/ai-studio/tutorials/deploy-chat-web-app)
     - Challenge 03: [Create .NET core application and build your first intelligent app](https://learn.microsoft.com/en-us/azure/ai-services/openai/use-your-data-quickstart?pivots=programming-language-csharp&tabs=command-line%2Cpython-new#create-a-new-net-core-application)
@@ -31,10 +29,10 @@ Welcome to the SE GPS Workshop on Azure OpenAI and Copilot Studio solution devel
 - **Track 1: AI Developer**
   - **Objective:** Build and deploy solutions using Azure OpenAI based on the Customer Use Case of the 1st day.
   - **Content:**
-    - Topic 1: Chatbot with GenAI Capabilities
+    - Topic 1: Chatbot with GenAI Capabilities 
       - Challenge 1: 
       - Challenge 2:
-    - Topic 2: Natural Language to SQL
+    - Topic 2: Natural Language to SQL 
       - Challenge 1:
       - Challenge 2:
 
@@ -65,8 +63,5 @@ By the end of this workshop, participants will:
 2. Design a solution architecture for a customer use case using Azure OpenAI and Copilot Studio.
 3. Develop and deploy a functional solution leveraging Azure OpenAI and Copilot Studio tools.
 
-## ✨ Conclusion
-
-This workshop is a unique opportunity to deepen your expertise in Azure AI services and accelerate your journey in developing cutting-edge AI solutions. We look forward to your active participation and successful project outcomes!
 
 
