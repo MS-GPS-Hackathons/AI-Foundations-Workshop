@@ -25,7 +25,7 @@ Welcome to the SE GPS Workshop on Azure OpenAI and Copilot Studio solution devel
 ### 👨‍💻👩‍💻 Day 2: Hands-on Solution Development
 
 
-- **Track 1: [AI Developer](/Day2-AIDeveloper/Overview.md)**
+- **[AI Developer Track](/Day2-AIDeveloper/Overview.md)**
   - **Objective:** Build and deploy solutions using Azure OpenAI based on the Customer Use Case of the 1st day.
   - **Content:**
     - Topic 1: Chatbot with GenAI Capabilities 
@@ -35,7 +35,7 @@ Welcome to the SE GPS Workshop on Azure OpenAI and Copilot Studio solution devel
       - Challenge 1:
       - Challenge 2:
 
-- **Track 2: [Copilot Studio Development](/Day2-CopilotStudio/Overview.md)**
+- **[Copilot Studio Development Track](/Day2-CopilotStudio/Overview.md)**
   - **Objective:** Build and deploy a bot using Copilot Studio based on the Customer Use Case of the 1st day.
   - **Content:**
     - Challenge 1:
