@@ -1,6 +1,6 @@
-## Challenge 01: Set up Azure AI Studio
-
 # Challenge 1: Setting Up a Project in Azure AI Studio
+
+**[Next Challenge >](./Challenge2-Foundamentals.md)
 
 ## Introduction
 Sofia is embarking on a new project to develop a sophisticated Q&A Bot to help navigate the EU AI Act. After evaluating various platforms, Sofia chose Azure AI Studio for its robust capabilities, enterprise-grade security, and collaborative environment. Azure AI Studio will allow Sofia and her team to efficiently organize their work and build customized AI applications. This is Sofia's first time working with Azure AI Studio, and she is excited to leverage its features for this important project.
@@ -13,7 +13,7 @@ Before diving into the setup, it’s important to understand the key components 
 - **Project**: A Project is a specific workspace within a Hub. It is used to organize work related to a particular AI application, saving the state of your work and managing resources such as data, models, and deployment configurations. Projects allow for detailed tracking and management of AI development efforts.
 
 
-![Azure AI Studio - Project](../images/project-view-aistudio.png)
+![Azure AI Studio - Project](../../images/project-view-aistudio.png)
 
 ## Success Criteria
 - **Understand AI Studio components**: Explain to your coach the difference between a Hub and a Project in Azure AI Studio.
