@@ -24,11 +24,11 @@ Welcome to the SE GPS Workshop on Azure OpenAI and Copilot Studio solution devel
 ### 📝 Deep Dive Technical Tracks
 
 
-- **[AI Developer Track]("https://github.com/MS-GPS-Hackathons/AI-Developer-Building-Intelligent-Apps-Hackathon?tab=readme-ov-file")** (2 Days Delivery)
+- **[AI Developer Track](https://github.com/MS-GPS-Hackathons/AI-Developer-Building-Intelligent-Apps-Hackathon?tab=readme-ov-file)** (2 Days Delivery)
   - **Objective:** Unlock the potential of Semantic Kernel in developing intelligent applications. Whether you prefer C# or Python, this session will provide you with the knowledge to incorporate Semantic Kernel into your applications, facilitating seamless integration of AI prompts with conventional programming languages for smarter, more responsive applications, Natural Language to SQL, Work with different Vector DB to store your indexed data
 
   
-- **[Infrastracture]("https://github.com/jonathan-vella/architecting-for-success/tree/main/402-ALZ-for-OpenAI")** (2 Days Delivery)
+- **[Infrastracture](https://github.com/jonathan-vella/architecting-for-success/tree/main/402-ALZ-for-OpenAI)** (2 Days Delivery)
   - **Objective:** Deploy the infrastructure and Landing Zones for your AOAI solution
 
 - **[Copilot Studio Development Track](/Day2-CopilotStudio/Overview.md)** (1 Day Delivery)
