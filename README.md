@@ -1,5 +1,4 @@
-# AI-Foundations-Workshop
-SE GPS Workshop on Azure OpenAI and Copilot Studio Solution Development based on Microsoft's best practices
+# AI-Foundations-Workshops
 
 ![Azure OpenAI + AI Services Hackathon](images/banner.webp)
 
@@ -10,10 +9,10 @@ Welcome to the SE GPS Workshop on Azure OpenAI and Copilot Studio solution devel
 
 ## 📅 Workshop Agenda
 
-### 📝 Day 1: AI Fundamentals
+### 📝 GenAI Fundamentals
 
 - **Azure AI Services Overview (2 hours)**
-- **Design Session - Customer Use Case (2 hours)**
+- **Design Session - Customer Use Case - Document Intelligence (2 hours)**
 - **AI Fundamentals Challenges (3 hours)**
     - Challenge 01: [Create a project and use the chat playground in Azure AI Studio](https://learn.microsoft.com/en-us/azure/ai-studio/quickstarts/get-started-playground)
     - Challenge 02: [Deploy an Enterprise Chat web app](https://learn.microsoft.com/en-us/azure/ai-studio/tutorials/deploy-chat-web-app)
@@ -22,28 +21,20 @@ Welcome to the SE GPS Workshop on Azure OpenAI and Copilot Studio solution devel
 
 ![Tracks](images/tracks.png)
 
-### 👨‍💻👩‍💻 Day 2: Hands-on Solution Development
+### 📝 Deep Dive Technical Tracks
 
 
-- **[AI Developer Track](/Day2-AIDeveloper/Overview.md)**
-  - **Objective:** Build and deploy solutions using Azure OpenAI based on the Customer Use Case of the 1st day.
-  - **Content:**
-    - Topic 1: Chatbot with GenAI Capabilities 
-      - Challenge 1: 
-      - Challenge 2:
-    - Topic 2: Natural Language to SQL 
-      - Challenge 1:
-      - Challenge 2:
+- **[AI Developer Track]("https://github.com/MS-GPS-Hackathons/AI-Developer-Building-Intelligent-Apps-Hackathon?tab=readme-ov-file")** (2 Days Delivery)
+  - **Objective:** Unlock the potential of Semantic Kernel in developing intelligent applications. Whether you prefer C# or Python, this session will provide you with the knowledge to incorporate Semantic Kernel into your applications, facilitating seamless integration of AI prompts with conventional programming languages for smarter, more responsive applications, Natural Language to SQL, Work with different Vector DB to store your indexed data
 
-- **[Copilot Studio Development Track](/Day2-CopilotStudio/Overview.md)**
-  - **Objective:** Build and deploy a bot using Copilot Studio based on the Customer Use Case of the 1st day.
-  - **Content:**
-    - Challenge 1:
-
-- **Track 3: Infrastracture**
+  
+- **[Infrastracture]("https://github.com/jonathan-vella/architecting-for-success/tree/main/402-ALZ-for-OpenAI")** (2 Days Delivery)
   - **Objective:** Deploy the infrastructure and Landing Zones for your AOAI solution
-  - **Content:**
-    - Security, Networking, Landing Zones, Observability
+
+- **[Copilot Studio Development Track](/Day2-CopilotStudio/Overview.md)** (1 Day Delivery)
+  - **Objective:** Build and deploy a bot using Copilot Studio based on the Customer Use Case of the 1st day.
+
+
 
 ## 📚 Resources
 
